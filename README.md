@@ -20,6 +20,19 @@ Nim     : 312210148
 - Buat file baru dengan nama `about.php`.
   ![Imgur-4](https://i.imgur.com/SKF68AV.png)
 
+- Tampilan hasil dari `header.php`, `footer.php`, `home.php`.
+  ![Imgur-5](https://i.imgur.com/B3ZCtJJ.png)
+
 ## Tugas
 
 - Implementasikan konsep modularisasi pada kode program `praktikum 8` tentang database, sehingga setiap halamannya memiliki templat tampilan yang sama.
+
+- Maka tampilan pada program `praktikum 8` yang menggunakan implementasi konsep modularisasi.
+- Tampilan awal pada halaman.
+  ![Imgur-6](https://i.imgur.com/QC7nkge.png)
+
+- Tampilan tambah barang.
+  ![Imgur7](https://i.imgur.com/512gTKg.png)
+
+- Tampilan ubah barang.
+  ![Imgur-7](https://i.imgur.com/qdsZ924.png)
